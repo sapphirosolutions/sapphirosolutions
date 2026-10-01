@@ -1,168 +1,221 @@
 <div align="center">
 
-# Sapphiro Solutions
-
-### Turning Ideas into Digital Dominance.
-
-<p>
-  <strong>Innovate • Build • Transform • Scale</strong>
-</p>
-
-<p>
-  We turn ambitious ideas into powerful digital products, intelligent solutions,
-  and scalable technology that drives businesses forward.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:06b6d4&height=220&section=header&text=SAPPHIRO%20SOLUTIONS&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Turning%20Ideas%20into%20Digital%20Dominance&descAlignY=60&descSize=18" width="100%"/>
 
 <br>
 
-[![Website](https://img.shields.io/badge/Website-Visit%20Us-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/your-company)
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-company)
+<a href="https://github.com/your-company">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=750&lines=Software+%7C+Cloud+%7C+AI+%7C+Digital+Solutions;We+Build+Technology+That+Moves+Businesses+Forward;From+Ideas+to+Scalable+Digital+Products;Innovate+%E2%80%A2+Build+%E2%80%A2+Transform+%E2%80%A2+Scale" />
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Software%20Development-111827?style=for-the-badge&logo=code&logoColor=06B6D4"/>
+<img src="https://img.shields.io/badge/AI%20%26%20Automation-111827?style=for-the-badge&logo=robot&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/Cloud%20Solutions-111827?style=for-the-badge&logo=icloud&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Digital%20Transformation-111827?style=for-the-badge&logo=googlecloud&logoColor=22C55E"/>
+
+<br><br>
+
+<a href="https://yourwebsite.com">
+<img src="https://img.shields.io/badge/Website-Visit%20Sapphiro-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/company/your-company">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/your-company">
+<img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 🚀 Who We Are
+## ◈ About Sapphiro
 
-**Sapphiro Solutions** is a technology and digital solutions company focused on
-building modern, scalable, and intelligent solutions for businesses.
+**Sapphiro Solutions** is a technology and digital solutions company focused on transforming ideas into modern, scalable and intelligent digital products.
 
-We combine **technology, creativity, strategy, and innovation** to transform
-ideas into real-world digital products.
+We combine **software engineering, digital strategy, automation, cloud technologies and emerging AI capabilities** to help businesses move from traditional processes to connected digital experiences.
 
-> 💡 **Your Idea → Our Technology → Digital Impact**
+> **Ideas → Strategy → Technology → Digital Impact**
+
+Our approach is simple:
+
+**Understand the problem. Design the solution. Engineer the product. Scale the impact.**
 
 ---
 
-## 🎯 What We Do
+# ◈ What We Build
+
+<div align="center">
+
+> **From complex business challenges to intelligent digital products.**
+
+</div>
+
+<br>
 
 <table>
 <tr>
-<td width="50%">
 
-### 💻 Software Development
+<td width="50%" valign="top">
 
-- Web Applications
-- Business Applications
-- Enterprise Software
-- Custom Software Solutions
-- API Development
-- System Integration
+### ◉ Digital Products
+
+We design and engineer modern digital products that are built around real user and business needs.
+
+**We build:**
+
+* SaaS Platforms
+* Web Applications
+* Customer Portals
+* Digital Platforms
+* Mobile & Responsive Experiences
+* Custom Software Products
+
+`Product Design` `React` `Next.js` `Node.js`
+
+</td>
+
+<td width="50%" valign="top">
+
+### ◉ Business Systems
+
+We transform complex business processes into connected, efficient and scalable software systems.
+
+**We build:**
+
+* ERP & Management Systems
+* Inventory Platforms
+* Business Operations Systems
+* CRM Solutions
+* Workflow Management
+* Enterprise Applications
+
+`Business Analysis` `APIs` `Databases` `System Integration`
 
 </td>
 
-<td width="50%">
-
-### 🌐 Digital Solutions
-
-- Digital Transformation
-- Cloud Solutions
-- SaaS Products
-- Automation
-- Business Process Solutions
-- Digital Platforms
-
-</td>
 </tr>
 
 <tr>
-<td width="50%">
 
-### 🤖 AI & Intelligent Solutions
+<td width="50%" valign="top">
 
-- AI-Powered Applications
-- Machine Learning Solutions
-- Intelligent Automation
-- Data-Driven Systems
-- AI Integration
+### ◉ Intelligent Solutions
+
+We integrate AI, automation and data intelligence to create smarter digital experiences and business processes.
+
+**We build:**
+
+* AI-Powered Applications
+* Intelligent Automation
+* Data-Driven Systems
+* Machine Learning Solutions
+* AI Integrations
+* Decision Support Systems
+
+`AI` `Machine Learning` `Automation` `Data`
+
+</td>
+
+<td width="50%" valign="top">
+
+### ◉ Cloud & Digital Infrastructure
+
+We engineer secure and scalable technology foundations that allow digital products to grow with the business.
+
+**We build:**
+
+* Cloud-Native Applications
+* API Infrastructure
+* Deployment Pipelines
+* Scalable Backend Systems
+* Database Architecture
+* DevOps Solutions
+
+`AWS` `Docker` `GitHub Actions` `Cloud`
 
 </td>
 
-<td width="50%">
-
-### 📈 Business & Digital Growth
-
-- Digital Strategy
-- Marketing Technology
-- Business Solutions
-- Process Optimization
-- Technology Consulting
-
-</td>
 </tr>
 </table>
 
+<br>
+
+<div align="center">
+
+### Our Engineering Approach
+
+**Discover** → **Design** → **Build** → **Integrate** → **Deploy** → **Scale**
+
+</div>
+
 ---
 
-## 🛠️ Technology We Work With
+# 🧬 Technology Ecosystem
 
 <div align="center">
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind" />
+
+<br>
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,spring" />
+
+<br>
 
 ### Database & Cloud
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,firebase,docker,aws" />
 
-### Development
+<br>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### Engineering & DevOps
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,vscode,figma" />
 
 </div>
 
 ---
 
-## 🌟 Our Vision
+# 🔬 What We're Exploring
 
-We believe every great digital product starts with a great idea.
+<div align="center">
 
-Our mission is to bridge the gap between **ideas and technology** by creating
-solutions that are:
+<img src="https://quickchart.io/chart?width=900&height=400&c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22AI%20%26%20ML%22%2C%22Cloud%20Architecture%22%2C%22SaaS%20Platforms%22%2C%22Automation%22%2C%22Data%20%26%20Analytics%22%2C%22Modern%20Web%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Sapphiro%20Focus%22%2C%22data%22%3A%5B90%2C85%2C88%2C82%2C78%2C92%5D%2C%22backgroundColor%22%3A%5B%22%238B5CF6%22%2C%22%2306B6D4%22%2C%22%2310B981%22%2C%22%23F59E0B%22%2C%22%23EC4899%22%2C%22%236366F1%22%5D%2C%22borderRadius%22%3A8%2C%22borderSkipped%22%3Afalse%7D%5D%7D%2C%22options%22%3A%7B%22indexAxis%22%3A%22y%22%2C%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%7D%2C%22scales%22%3A%7B%22x%22%3A%7B%22min%22%3A0%2C%22max%22%3A100%7D%2C%22y%22%3A%7B%22grid%22%3A%7B%22display%22%3Afalse%7D%7D%7D%7D%7D" width="90%" alt="Sapphiro Solutions technology focus chart"/>
 
-- ⚡ Fast
-- 🔐 Secure
-- 📈 Scalable
-- 🧠 Intelligent
-- 🎨 User-Centered
-- 🌍 Future-Ready
+</div>
 
 ---
 
-## 🔥 What We're Building
+# 🔭 The Road Ahead
 
-We are continuously developing and exploring solutions in:
+Sapphiro Solutions is building toward a technology ecosystem where **software, AI, cloud, automation and business intelligence** work together to create smarter digital businesses.
 
-```text
-┌─────────────────────────────────────────────┐
-│              SAPPHIRO SOLUTIONS             │
-├─────────────────────────────────────────────┤
-│                                             │
-│  💻 Software       →  Digital Products      │
-│  🤖 AI             →  Intelligent Systems   │
-│  ☁️ Cloud          →  Scalable Platforms    │
-│  📊 Data           →  Business Intelligence │
-│  ⚙️ Automation     →  Smarter Workflows     │
-│  🌐 Web            →  Digital Experiences   │
-│                                             │
-└─────────────────────────────────────────────┘
+### We're not just writing code.
+
+### We're engineering possibilities.
+
+<br>
+
+<div align="center">
+
+## SAPPHIRO SOLUTIONS
+
+### Turning Ideas into Digital Dominance.
+
+<br>
+
+**Innovate • Build • Transform • Scale**
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:312e81,100:0f172a&height=220&section=footer"
+  width="100%"
+/>
